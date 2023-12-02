@@ -1,6 +1,5 @@
 # NextJs 
  
-module - 73.4 exploring the world of nextjs project creation and its Folder structure
 
 to create a new nextjs 
 the command will be executed 
