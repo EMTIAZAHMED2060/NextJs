@@ -1,7 +1,4 @@
 # NextJs 
- 
-module - 73.4 exploring the world of nextjs project creation and its Folder structure
-
 to create a new nextjs 
 the command will be executed 
 
@@ -17,7 +14,7 @@ to install the nextjs
     npm run dev 
     if i run NEXTJS    it will auto make a next .next folder
         it is basically a folder for build.
-        
+
 
 
 after this command is executed
