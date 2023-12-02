@@ -1,4 +1,9 @@
 # NextJs 
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> f7fc40a226135e7b08d48b28219fff941f8dab88
 to create a new nextjs 
 the command will be executed 
 
